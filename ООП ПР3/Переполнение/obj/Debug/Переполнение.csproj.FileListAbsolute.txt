@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\bin\Debug\Переполнение.exe.config
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\bin\Debug\Переполнение.exe
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\bin\Debug\Переполнение.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\obj\Debug\Переполнение.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\obj\Debug\Переполнение.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\obj\Debug\Переполнение.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\obj\Debug\Переполнение.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\obj\Debug\Переполнение.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\obj\Debug\Переполнение.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\obj\Debug\Переполнение.exe
+C:\Users\HP\Desktop\ООП\ООП ПР3\Переполнение\obj\Debug\Переполнение.pdb

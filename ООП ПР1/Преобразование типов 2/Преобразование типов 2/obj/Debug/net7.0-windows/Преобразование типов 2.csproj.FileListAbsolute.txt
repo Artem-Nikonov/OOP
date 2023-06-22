@@ -1,0 +1,36 @@
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.exe
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.deps.json
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.runtimeconfig.json
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.dll
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.pdb
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование_типов_2.Form1.resources
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.dll
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\refint\Преобразование типов 2.dll
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.pdb
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.genruntimeconfig.cache
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\ref\Преобразование типов 2.dll
+C:\Users\HP\Desktop\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование_типов_2.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.exe
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.deps.json
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.runtimeconfig.json
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.dll
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\bin\Debug\net7.0-windows\Преобразование типов 2.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование_типов_2.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование_типов_2.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.dll
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\refint\Преобразование типов 2.dll
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\Преобразование типов 2.genruntimeconfig.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Преобразование типов 2\Преобразование типов 2\obj\Debug\net7.0-windows\ref\Преобразование типов 2.dll

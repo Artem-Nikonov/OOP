@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\bin\Debug\НОД методом Евклида.exe.config
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\bin\Debug\НОД методом Евклида.exe
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\bin\Debug\НОД методом Евклида.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\obj\Debug\НОД методом Евклида.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\obj\Debug\НОД методом Евклида.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\obj\Debug\НОД_методом_Евклида.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\obj\Debug\НОД_методом_Евклида.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\obj\Debug\НОД методом Евклида.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\obj\Debug\НОД методом Евклида.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\obj\Debug\НОД методом Евклида.exe
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД методом Евклида\НОД методом Евклида\obj\Debug\НОД методом Евклида.pdb

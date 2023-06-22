@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\ООП\ООП ПР5\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР5\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП\ООП ПР5\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР5\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП\ООП ПР5\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache

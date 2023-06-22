@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\bin\Debug\net7.0\ComputerShop.DI.deps.json
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\bin\Debug\net7.0\ComputerShop.DI.dll
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\bin\Debug\net7.0\ComputerShop.DI.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\ComputerShop.DI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\ComputerShop.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\ComputerShop.DI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\ComputerShop.DI.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\ComputerShop.DI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\ComputerShop.DI.dll
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\refint\ComputerShop.DI.dll
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\ComputerShop.DI.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР5\CompShop\ComputerShop.DI\obj\Debug\net7.0\ref\ComputerShop.DI.dll

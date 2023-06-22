@@ -1,0 +1,21 @@
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\bin\Debug\net7.0-windows\Using lambda.exe
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\bin\Debug\net7.0-windows\Using lambda.deps.json
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\bin\Debug\net7.0-windows\Using lambda.runtimeconfig.json
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\bin\Debug\net7.0-windows\Using lambda.dll
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\bin\Debug\net7.0-windows\Using lambda.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda_MarkupCompile.cache
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda_MarkupCompile.lref
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.g.resources
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.dll
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\refint\Using lambda.dll
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\Using lambda.genruntimeconfig.cache
+C:\Users\HP\Desktop\ООП\ООП ПР6\Using lambda\obj\Debug\net7.0-windows\ref\Using lambda.dll

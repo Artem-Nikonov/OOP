@@ -1,0 +1,34 @@
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы_счисление.ConvertFrom.resources
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.exe
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.deps.json
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.runtimeconfig.json
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.dll
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.pdb
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.dll
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\refint\Системы счисление.dll
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.pdb
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.genruntimeconfig.cache
+C:\Users\HP\Desktop\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\ref\Системы счисление.dll
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.exe
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.deps.json
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.runtimeconfig.json
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.dll
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\bin\Debug\net7.0-windows\Системы счисление.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы_счисление.ConvertFrom.resources
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.dll
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\refint\Системы счисление.dll
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\Системы счисление.genruntimeconfig.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\Системы счисление\Системы счисление\obj\Debug\net7.0-windows\ref\Системы счисление.dll

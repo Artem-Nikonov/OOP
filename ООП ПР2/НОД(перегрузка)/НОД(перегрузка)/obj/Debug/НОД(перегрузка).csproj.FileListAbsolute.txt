@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\bin\Debug\НОД(перегрузка).exe.config
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\bin\Debug\НОД(перегрузка).exe
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\bin\Debug\НОД(перегрузка).pdb
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\obj\Debug\НОД(перегрузка).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\obj\Debug\НОД(перегрузка).csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\obj\Debug\НОД_перегрузка_.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\obj\Debug\НОД_перегрузка_.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\obj\Debug\НОД(перегрузка).csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\obj\Debug\НОД(перегрузка).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\obj\Debug\НОД(перегрузка).exe
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД(перегрузка)\НОД(перегрузка)\obj\Debug\НОД(перегрузка).pdb

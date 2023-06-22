@@ -1,0 +1,34 @@
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.exe
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.deps.json
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.runtimeconfig.json
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\refint\ComplexNumb.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.genruntimeconfig.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ComplexNumb\obj\Debug\net7.0-windows\ref\ComplexNumb.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.exe
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.deps.json
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.runtimeconfig.json
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\bin\Debug\net7.0-windows\ComplexNumb.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\refint\ComplexNumb.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ComplexNumb.genruntimeconfig.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\Новая папка\ComplexNumb\obj\Debug\net7.0-windows\ref\ComplexNumb.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ComputerShop.Bll/1.0.0": {
+        "dependencies": {
+          "ComputerShop.DI": "1.0.0"
+        },
+        "runtime": {
+          "ComputerShop.Bll.dll": {}
+        }
+      },
+      "ComputerShop.DI/1.0.0": {
+        "runtime": {
+          "ComputerShop.DI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComputerShop.Bll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComputerShop.DI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

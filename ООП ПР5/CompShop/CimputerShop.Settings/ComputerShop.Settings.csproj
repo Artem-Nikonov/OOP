@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SimpleInjector" Version="5.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ComputerShop.Bll\ComputerShop.Bll.csproj" />
+    <ProjectReference Include="..\ComputerShop.Data.Memory\ComputerShop.Data.Memory.csproj" />
+    <ProjectReference Include="..\ComputerShop.Data.Sql\ComputerShop.Data.Sql.csproj" />
+    <ProjectReference Include="..\ComputerShop.DI\ComputerShop.DI.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,30 @@
+﻿<Window x:Class="Interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Interface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,-17,-16,0" Width="800" Height="450">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="233*"/>
+            <ColumnDefinition Width="747*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="53*"/>
+            <RowDefinition Height="301*"/>
+            <RowDefinition Height="366*"/>
+        </Grid.RowDefinitions>
+        <ComboBox x:Name="comboBox" Width="150" Margin="20,10,20,148" Height="30" Grid.Row="1"/>
+        <Button x:Name="CreateMeasureLengthDeviceButton" Content=" Create Device" Width="150" Height="30" Cursor="" Background="#FFDDDDDD" Margin="0,51,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="1" Click="CreateMeasureLengthDeviceButton_Click"/>
+        <Button x:Name="StartCollectingButton" Content="Start Collecting" Width="150" Height="30" Cursor="" Background="#FFDDDDDD" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="1" Margin="0,86,0,0" Click="StartCollectingButton_Click"/>
+        <Button x:Name="StopCollectingButton" Content="Stop Collecting" Width="150" Height="30" Cursor="" Background="#FFDDDDDD" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="2" Margin="0,79,0,0" Click="StopCollectingButton_Click"/>
+        <Button x:Name="GetRawDataButton" Content="Get Raw Data" Width="150" Height="30" Cursor="" Background="#FFDDDDDD" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="1" Margin="0,121,0,0" Click="GetRawDataButton_Click"/>
+        <Button x:Name="GetMetricValueButton" Content="Get Metric Value" Width="150" Height="30" Cursor="" Background="#FFDDDDDD" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="1" Margin="0,156,0,0" Click="GetMetricValueButton_Click"/>
+        <Button x:Name="GetImperialValueButton" Content="Get Imperial Value" Width="150" Height="30" Cursor="" Background="#FFDDDDDD" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="2" Margin="0,4,0,0" Click="GetImperialValueButton_Click"/>
+        <Label x:Name="RawData" Content="" Grid.Column="1" Margin="20,10,400,120" Grid.Row="1" Grid.RowSpan="2" Background="#FFDDDDDD"/>
+        <Label x:Name="GetValue" Content="" Margin="20,39,20,155" Grid.Row="2" Background="#FFDDDDDD" Width="150" Height="35"/>
+
+    </Grid>
+</Window>

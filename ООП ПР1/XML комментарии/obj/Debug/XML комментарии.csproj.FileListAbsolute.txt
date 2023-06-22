@@ -1,0 +1,24 @@
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\bin\Debug\XML комментарии.exe.config
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\bin\Debug\XML комментарии.xml
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\bin\Debug\XML комментарии.exe
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\bin\Debug\XML комментарии.pdb
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\obj\Debug\XML_комментарии.Form1.resources
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\obj\Debug\XML_комментарии.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.exe
+C:\Users\HP\Desktop\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\bin\Debug\XML комментарии.exe.config
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\bin\Debug\XML комментарии.xml
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\bin\Debug\XML комментарии.exe
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\bin\Debug\XML комментарии.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\obj\Debug\XML_комментарии.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\obj\Debug\XML_комментарии.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.exe
+C:\Users\HP\Desktop\ООП\ООП ПР1\XML комментарии\obj\Debug\XML комментарии.pdb

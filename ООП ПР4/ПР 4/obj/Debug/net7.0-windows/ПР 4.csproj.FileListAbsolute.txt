@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\bin\Debug\net7.0-windows\ПР 4.exe
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\bin\Debug\net7.0-windows\ПР 4.deps.json
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\bin\Debug\net7.0-windows\ПР 4.runtimeconfig.json
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\bin\Debug\net7.0-windows\ПР 4.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\bin\Debug\net7.0-windows\ПР 4.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР_4.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.AssemblyInfo.cs
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\refint\ПР 4.dll
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ПР 4.genruntimeconfig.cache
+C:\Users\HP\Desktop\ООП\ООП ПР4\ПР 4\obj\Debug\net7.0-windows\ref\ПР 4.dll

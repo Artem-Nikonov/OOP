@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "НОД(перегрузка)", "НОД(перегрузка)\НОД(перегрузка).csproj", "{9A079873-CFE0-4FB2-99ED-BEEDD9658278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{27D3EBF1-A626-4212-B39B-B7895FDA61D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A079873-CFE0-4FB2-99ED-BEEDD9658278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A079873-CFE0-4FB2-99ED-BEEDD9658278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A079873-CFE0-4FB2-99ED-BEEDD9658278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A079873-CFE0-4FB2-99ED-BEEDD9658278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D3EBF1-A626-4212-B39B-B7895FDA61D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D3EBF1-A626-4212-B39B-B7895FDA61D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D3EBF1-A626-4212-B39B-B7895FDA61D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D3EBF1-A626-4212-B39B-B7895FDA61D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2380321-5396-46DB-9D19-A4CDD279DEF8}
+	EndGlobalSection
+EndGlobal

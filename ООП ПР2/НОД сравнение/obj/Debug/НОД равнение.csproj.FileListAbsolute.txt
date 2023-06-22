@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\bin\Debug\НОД равнение.exe.config
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\bin\Debug\НОД равнение.exe
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\bin\Debug\НОД равнение.pdb
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\obj\Debug\НОД равнение.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\obj\Debug\НОД равнение.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\obj\Debug\НОД_равнение.Form1.resources
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\obj\Debug\НОД_равнение.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\obj\Debug\НОД равнение.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\obj\Debug\НОД равнение.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\obj\Debug\НОД равнение.exe
+C:\Users\HP\Desktop\ООП\ООП ПР2\НОД равнение\obj\Debug\НОД равнение.pdb
